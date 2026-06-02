@@ -1,4 +1,4 @@
-# Smart Classroom Automation and Monitoring System Using IoT and ESP32
+# Smart Classroom Automation with IoT and Attendance Management.
 
 ## 📌 Project Overview
 
@@ -140,7 +140,7 @@ Features:
 
 * Scheduled email sending
 * Real-time environmental status
-* Classroom routine delivery
+* Classroom attandance system
 
 
 
