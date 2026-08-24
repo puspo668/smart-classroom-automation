@@ -210,10 +210,15 @@ Smart Classroom Automation and Monitoring System Using IoT and ESP32
 
 KUMARY PUSPO RANI
 Nusrat Jahan
+
 Tayeb Hassan
+
 Md.Saifullah azad
+
 Abu Bakkar Siddik Rifat
-Fatematuzannat 
+
+Fatematuzannat
+
 Department of computer science and engineering .
 
 # 📄 License
